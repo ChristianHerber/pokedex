@@ -1,5 +1,5 @@
 <template>
-    <div id="pokemon" class="column">
+    <div id="pokemon">
         <div class="card">
             <div class="card-image">
                 <figure>
