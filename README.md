@@ -1,24 +1,7 @@
-# pokedex
+# Pokedex 1st generation :tw-1f534:
 
-## Project setup
-```
-yarn install
-```
+Projeto desenvolvido com finalidade de estudo da biblioteca [VueJs](https://vuejs.org/ "VueJs"). Foi utilizado a API [pokeapi.co](https://pokeapi.co/ "pokeapi.co") e o [axios](https://axios-http.com/docs/intro "axios") para fazer a requisição.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+[Acesse para testar](https://mypokedexvuejs.netlify.app/ "Acesse para testar")
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://drive.google.com/uc?export=view&id=1rpHYx26GDa97_FzduzGpHtiU960hvSLF)
